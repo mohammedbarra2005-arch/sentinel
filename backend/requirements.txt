@@ -1,0 +1,6 @@
+# En plus de requirements.txt à la racine (pandas, xgboost, shap, neo4j, networkx...)
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+torch==2.4.1
+torch_geometric==2.6.1
+openai>=1.59.0
